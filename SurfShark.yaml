@@ -42,7 +42,7 @@ proxies:
   - {name: FR 🇫🇷 Paris 1, server: 143.244.57.106, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}
   - {name: FR 🇫🇷 Paris 2, server: 143.244.57.119, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}
   - {name: FR 🇫🇷 Paris 3, server: 143.244.57.118, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}
-  - {name: FR 🇫🇷 Paris 4, server: 143.244.57.99, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}
+  - {name: FR 🇫🇷 Paris 4, server: 143.244.57.99, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(33998).yml
   - {name: FR 🇫🇷 Marseille 1, server: 185.166.84.79, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}
   - {name: FR 🇫🇷 Marseille 2, server: 185.166.84.73, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}
   - {name: FR 🇫🇷 Marseille 3, server: 138.199.16.142, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}
